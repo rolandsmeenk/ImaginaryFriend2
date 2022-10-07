@@ -6,6 +6,6 @@ Talk given at these event(s):
 
 ## Development environment
 
-* Unity 2020.3.11f1
+* Unity 2021.3.11f1
 * MRTK 2.8.2 with OpenXR
 
