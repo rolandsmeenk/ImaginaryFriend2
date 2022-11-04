@@ -1,7 +1,7 @@
 # Imaginary friend Part 2: Breathing life into a holographic character
 
 Talk given at these event(s):
-  * Global XR Conference, 3 November 2022
+  * Global XR Conference, 4 November 2022
 
 ## Development environment
 
