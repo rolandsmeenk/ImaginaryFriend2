@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/App/6_Parroting.unity
+    guid: b9cf3e9e13329f4408d0ca4345d2fdcb
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e00eda33fd1a9eb4e80cc0566858cdca, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7f626894f7f632d4db2181eee0ee733d, type: 2}
