@@ -30,7 +30,7 @@ namespace OpenAi.Unity.V1
         /// <summary>
         /// The id of the engine to use
         /// </summary>
-        [Tooltip("The id of the engine to use")]
+        [Tooltip("The id of the engine to use. Note: the Args above this line are used of not null.")]
         public EEngineName Engine = EEngineName.davinci;
 
         public void Start()

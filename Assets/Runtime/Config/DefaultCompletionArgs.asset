@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fd689c40e44326488e8c75b58e63175, type: 3}
   m_Name: DefaultCompletionArgs
   m_EditorClassIdentifier: 
-  model: text-ada-001
+  model: text-davinci-003
   max_tokens: 128
-  temperature: 0.7
+  temperature: 0.8
   top_p: 1
   presences_penalty: 0
   frequency_penalty: 0
